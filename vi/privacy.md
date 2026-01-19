@@ -6,7 +6,7 @@ title: Privacy Policy
 
 > **Ngày cập nhật cuối cùng:** 06/01/2026
 
-Chào mừng bạn đến với **Pigy Clash**. Chúng tôi cam kết bảo vệ quyền riêng tư và dữ liệu cá nhân của bạn theo đúng quy định của pháp luật Việt Nam (Nghị định 13/2023/NĐ-CP). Chính sách này giải thích cách chúng tôi thu thập, sử dụng và bảo vệ thông tin khi bạn trải nghiệm trò chơi.
+Chào mừng bạn đến với **Pigy Clash**. Chính sách này giải thích cách chúng tôi thu thập, sử dụng và bảo vệ thông tin khi bạn trải nghiệm trò chơi.
 
 ---
 
@@ -27,9 +27,19 @@ Chúng tôi sử dụng dữ liệu cá nhân của bạn cho các mục đích 
 * **Tuân thủ pháp luật:** Đáp ứng các yêu cầu từ cơ quan nhà nước có thẩm quyền tại Việt Nam.
 
 ## 4. Đối Tác Thứ Ba
-Chúng tôi hợp tác với các nhà cung cấp dịch vụ uy tín để tối ưu hóa trò chơi:
-* **Unity Technologies (Unity Ads & Analytics):** Thu thập dữ liệu để cung cấp quảng cáo và phân tích hành vi. Chính sách của Unity tuân thủ các tiêu chuẩn bảo mật quốc tế.
-* **Google Play Services:** Quản lý thanh toán và dịch vụ trò chơi trên Android.
+Chúng tôi hợp tác với các nhà cung cấp dịch vụ uy tín để tối ưu hóa trò chơi. Dưới đây là danh sách các đối tác và mục đích sử dụng dữ liệu của họ:
+
+* **Unity Technologies:**
+  * **Unity Ads & Analytics:** Thu thập dữ liệu để cung cấp quảng cáo và phân tích hành vi người dùng.
+  * **Unity Cloud Save:** Lưu trữ tiến trình chơi của bạn trên đám mây.
+  * **Unity IAP:** Xử lý các giao dịch mua trong ứng dụng.
+
+* **Google:**
+  * **Google Analytics for Firebase:** Giúp chúng tôi phân tích hành vi người dùng để cải thiện trò chơi.
+  * **Google AdMob:** Cung cấp quảng cáo trong trò chơi.
+  * **Google Play Game Services:** Cung cấp các tính năng xã hội như bảng xếp hạng, thành tích và lưu trữ đám mây.
+
+Để biết thêm thông tin về cách các đối tác này xử lý dữ liệu của bạn, vui lòng tham khảo chính sách bảo mật của họ.
 
 ## 5. Quyền Của Chủ Thể Dữ Liệu (Theo Nghị định 13/2023/NĐ-CP)
 Bạn có đầy đủ các quyền sau đây đối với dữ liệu cá nhân của mình:

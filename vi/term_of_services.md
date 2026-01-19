@@ -25,7 +25,13 @@ Vì trò chơi sử dụng các dịch vụ lưu trữ của bên thứ ba (**Un
 ## 5. Giới Hạn Trách Nhiệm
 Trò chơi được cung cấp theo nguyên tắc **"Nguyên trạng" (As Is)**. Chúng tôi không đảm bảo rằng trò chơi sẽ luôn hoạt động ổn định và không có lỗi trong mọi thời điểm.
 
-## 6. Thay Đổi Điều Khoản
+## 6. Tạm Dừng Hoặc Chấm Dứt Dịch Vụ
+Chúng tôi có quyền tạm dừng hoặc chấm dứt quyền truy cập của bạn vào trò chơi bất kỳ lúc nào mà không cần báo trước nếu bạn vi phạm bất kỳ điều khoản nào trong số này.
+
+## 7. Luật Áp Dụng
+Các điều khoản này sẽ được điều chỉnh và giải thích theo pháp luật của Việt Nam. Mọi tranh chấp phát sinh sẽ được giải quyết tại tòa án có thẩm quyền của Việt Nam.
+
+## 8. Thay Đổi Điều Khoản
 Chúng tôi có quyền cập nhật các điều khoản này bất kỳ lúc nào để phù hợp với quy định pháp luật và sự phát triển của trò chơi.
 
 ---
