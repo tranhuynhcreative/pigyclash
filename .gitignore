@@ -1,0 +1,14 @@
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-metadata
+.jekyll-cache/
+
+# Docker
+.docker/
+docker-compose.override.yml
+.env
+
+# Bundler
+.bundle/
+vendor/bundle/

@@ -1,7 +1,4 @@
----
-layout: page
-title: Terms of Service
----
+
 # TERMS OF SERVICE – PIGY CLASH
 
 Welcome to **Pigy Clash**. By accessing or using our game, you agree to be bound by the terms below.

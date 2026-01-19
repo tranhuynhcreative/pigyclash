@@ -1,7 +1,4 @@
----
-layout: page
-title: Terms of Service
----
+
 # ĐIỀU KHOẢN DỊCH VỤ (TERMS OF SERVICE) – PIGY CLASH
 
 Chào mừng bạn đến với **Pigy Clash**. Bằng việc truy cập hoặc sử dụng trò chơi, bạn đồng ý tuân thủ các điều khoản dưới đây.

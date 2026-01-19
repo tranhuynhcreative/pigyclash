@@ -1,7 +1,4 @@
----
-layout: page
-title: Privacy Policy
----
+
 # PRIVACY POLICY – PIGY CLASH
 
 > **Last Updated:** January 6, 2026

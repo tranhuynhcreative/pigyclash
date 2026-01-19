@@ -1,7 +1,4 @@
----
-layout: page
-title: Privacy Policy
----
+
 # CHÍNH SÁCH BẢO MẬT THÔNG TIN (PRIVACY POLICY) – PIGY CLASH
 
 > **Ngày cập nhật cuối cùng:** 06/01/2026
