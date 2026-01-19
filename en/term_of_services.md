@@ -26,10 +26,10 @@ The game is provided on an **"As Is"** basis. We do not guarantee that the game 
 We reserve the right to suspend or terminate your access to the game at any time without prior notice if you violate any of these terms.
 
 ## 7. Governing Law
-These terms shall be governed and construed in accordance with the laws of Vietnam. Any dispute arising shall be settled in the competent courts of Vietnam.
+These terms shall be governed and construed in accordance with the laws of the jurisdiction where the developer is located, or as otherwise required by applicable law. Any disputes shall be resolved in the competent courts of that jurisdiction.
 
 ## 8. Changes to Terms
-We reserve the right to update these terms at any time to reflect legal requirements and the development of the game.
+We reserve the right to update these Terms at any time. We will notify you of any changes by posting the new version on this page and updating the "Last Updated" date. By continuing to use the game after these changes become effective, you agree to be bound by the revised Terms.
 
 ---
 

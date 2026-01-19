@@ -26,10 +26,10 @@ Trò chơi được cung cấp theo nguyên tắc **"Nguyên trạng" (As Is)**.
 Chúng tôi có quyền tạm dừng hoặc chấm dứt quyền truy cập của bạn vào trò chơi bất kỳ lúc nào mà không cần báo trước nếu bạn vi phạm bất kỳ điều khoản nào trong số này.
 
 ## 7. Luật Áp Dụng
-Các điều khoản này sẽ được điều chỉnh và giải thích theo pháp luật của Việt Nam. Mọi tranh chấp phát sinh sẽ được giải quyết tại tòa án có thẩm quyền của Việt Nam.
+Các điều khoản này sẽ được điều chỉnh và giải thích theo pháp luật của nước sở tại của nhà phát triển hoặc theo quy định của pháp luật hiện hành. Mọi tranh chấp phát sinh sẽ được giải quyết tại tòa án có thẩm quyền của nước sở tại.
 
 ## 8. Thay Đổi Điều Khoản
-Chúng tôi có quyền cập nhật các điều khoản này bất kỳ lúc nào để phù hợp với quy định pháp luật và sự phát triển của trò chơi.
+Chúng tôi có quyền cập nhật các Điều khoản này bất kỳ lúc nào. Chúng tôi sẽ thông báo cho bạn về bất kỳ thay đổi nào bằng cách đăng phiên bản mới trên trang này và cập nhật "Ngày cập nhật cuối cùng". Bằng việc tiếp tục sử dụng trò chơi sau khi các thay đổi có hiệu lực, bạn đồng ý chịu sự ràng buộc của các Điều khoản đã được sửa đổi.
 
 ---
 

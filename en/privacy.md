@@ -1,7 +1,7 @@
 
 # PRIVACY POLICY – PIGY CLASH
 
-> **Last Updated:** January 6, 2026
+> **Last Updated:** January 20, 2026
 
 Welcome to **Pigy Clash**. This policy explains how we collect, use, and protect your information when you play our game.
 
@@ -12,7 +12,7 @@ By downloading, installing, and using **Pigy Clash**, you acknowledge that you h
 
 ## 2. Data We Collect
 To operate the game and provide the best experience, we collect the following types of data:
-* **Device Identifiers:** Advertising ID (IDFA for iOS, GAID for Android), IP address, device type, operating system.
+* **Device Identifiers:** Information collected may include, but is not limited to: Advertising ID (IDFA for iOS, GAID for Android), IP address, device type, operating system version.
 * **In-Game Behavior Data:** Game progress, purchased items (IAP), number of ads viewed, system errors (Crash logs).
 * **Payment Data:** Payments are processed by the Google Play or Apple App Store. We do not directly store your credit card number.
 
@@ -21,7 +21,7 @@ We use your personal data for the following legitimate purposes:
 * **Game Operation:** Saving game progress, leaderboards.
 * **Analysis and Improvement:** Understanding how you play to balance difficulty and fix technical issues.
 * **Personalized Advertising:** Displaying ads relevant to your interests through our partner, Unity Ads.
-* **Legal Compliance:** Responding to requests from competent government authorities in Vietnam.
+
 
 ## 4. Third-Party Partners
 We partner with reputable service providers to optimize our game. Below is a list of our partners and the purposes for which they use your data:
@@ -38,17 +38,19 @@ We partner with reputable service providers to optimize our game. Below is a lis
 
 For more information on how these partners handle your data, please refer to their respective privacy policies.
 
-## 5. Data Subject Rights (According to Decree 13/2023/NĐ-CP)
+## 5. Data Subject Rights
 You have the following rights with respect to your personal data:
 * The right to be informed and the right to access data.
-* The right to withdraw consent for data collection at any time.
-* The right to request the deletion of personal data.
+* The right to withdraw consent or request the deletion of your personal data or account by contacting us at our support email.
 * The right to complain or claim compensation in accordance with the law.
 
 ## 6. Data Security
 We apply appropriate technical and organizational measures to protect your personal data from unauthorized access, loss, or destruction.
 
-## 7. Contact Us
+## 7. Changes to This Privacy Policy
+We reserve the right to update this Privacy Policy at any time. We will notify you of any changes by posting the new version on this page and updating the "Last Updated" date. By continuing to use the game after these changes become effective, you agree to be bound by the revised Privacy Policy.
+
+## 8. Contact Us
 If you have any questions about this policy or wish to exercise your data rights, please contact us via email: **tranhuynhcreative@gmail.com**
 
 ---
